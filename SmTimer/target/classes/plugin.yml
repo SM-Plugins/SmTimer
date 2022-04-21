@@ -1,0 +1,12 @@
+name: SmTimer
+version: '1.0'
+main: me.smudge.smtimer.SmTimer
+api-version: 1.18
+authors: [ Smudge ]
+description: Dropper Event Manager
+depend:
+  - WorldGuard
+  - FastAsyncWorldEdit
+commands:
+  timer:
+    usage: /<command> <subcommand>
