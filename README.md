@@ -1,4 +1,12 @@
 <h1 align="center">SmTimer</h1>
 <h3 align="center">Time players between two points</h3>
 
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<h3 align="left">Commands</h3>
+<p align="left">
+/timer reload [reloads configs]
+</p>
+
+<h3 align="left">Permissions</h3>
+<p align="left">
+timer.admin [Reload command]
+</p>
